@@ -1,0 +1,6 @@
+time time_stamp
+float64[] rgb_query
+float64[] depth_query
+---
+# State vector: x, y, z, roll, pitch, yaw
+float64[6] state 
