@@ -1,4 +1,0 @@
-int64[] image_query
-int64[] depth_query
----
-float64[] pose
